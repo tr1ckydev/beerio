@@ -1,0 +1,38 @@
+{
+  "name": "beerio",
+  "version": "0.1.0",
+  "description": "Blazingly faster alternative to cheerio.",
+  "type": "module",
+  "main": "src/index.ts",
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tr1ckydev/beerio.git"
+  },
+  "keywords": [
+    "htmlparser",
+    "jquery",
+    "selector",
+    "scraper",
+    "parser",
+    "dom",
+    "xml",
+    "html",
+    "cheerio",
+    "bun"
+  ],
+  "author": "tr1ckydev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tr1ckydev/beerio/issues"
+  },
+  "homepage": "https://github.com/tr1ckydev/beerio#readme",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "dependencies": {
+    "callable-instance": "^2.0.0"
+  }
+}
